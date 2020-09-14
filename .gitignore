@@ -38,8 +38,6 @@ bower_components
 build/Release
 
 # Dependency directories
-*/node_modules/
-web/node_modules/
 node_modules/
 jspm_packages/
 
@@ -104,11 +102,3 @@ dist
 
 # TernJS port file
 .tern-port
-web/codegen.yml
-web/next-env.d.ts
-web/package.json
-web/src/
-web/tsconfig.json
-web/yarn.lock
-web/.gitignore
-web/README.md
