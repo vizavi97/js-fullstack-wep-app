@@ -1,0 +1,4 @@
+req.session.userId = user.id
+
+
+{user.id: 1} -> send that to redis
